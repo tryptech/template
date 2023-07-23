@@ -1,1 +1,19 @@
-{"faction":"mochisui","contact":"mochisui","templates":[{"name":"mochisui","sources":["https://raw.githubusercontent.com/tryptech/template/main/mochisui.png"],"x":354,"y":1912,"frameWidth":null,"frameHeight":null,"frameRate":null,"frameCount":null,"startTime":null,"looping":null}],"whitelist":[]}
+{
+  "faction":"mochisui",
+  "contact":"mochisui",
+  "templates":[
+    {"name":"mochisui",
+      "sources":[
+        "https://raw.githubusercontent.com/tryptech/template/main/mochisui.png"
+      ],
+      "x":354,
+      "y":1910,
+      "frameWidth":null,
+      "frameHeight":null,
+      "frameRate":null,
+      "frameCount":null,
+      "startTime":null,
+      "looping":null}
+  ],
+  "whitelist":[]
+}
