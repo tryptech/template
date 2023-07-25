@@ -1,0 +1,19 @@
+{
+  "faction":"placestartendbw",
+  "contact":"tryptech",
+  "templates":[
+    {"name":"placestartendbw",
+      "sources":[
+        "https://raw.githubusercontent.com/tryptech/template/main/placestartendbw.png"
+      ],
+      "x":2793,
+      "y":167,
+      "frameWidth":null,
+      "frameHeight":null,
+      "frameRate":null,
+      "frameCount":null,
+      "startTime":null,
+      "looping":null}
+  ],
+  "whitelist":[]
+}
